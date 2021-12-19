@@ -1,5 +1,9 @@
 # CustomCMDCommands ![Version](https://img.shields.io/badge/Version-v0.0.1-orange?style=flat-square&url=https://github.com/DEADSEC-SECURITY/pretty-downloader/blob/main/CHANGELOG.md) ![Python_Version](https://img.shields.io/badge/Python-3.7%2B-blue?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-red?style=flat-square) ![Donate](https://img.shields.io/badge/Donate-Crypto-yellow?style=flat-square) [![Pylint](https://github.com/DEADSEC-SECURITY/CustomCMDCommandMaker/actions/workflows/pylint.yml/badge.svg)](https://github.com/DEADSEC-SECURITY/CustomCMDCommandMaker/actions/workflows/pylint.yml)
 
+This script gives you the ability to create custom CMD commands.
+
+It works by creating a new entry in your windows registry for startup pointing to a file where all new commands and theire output will be stored. This willa allow you to create for example a `HOME` command that will automaticly `cd` to your home dir.
+
 ## 📝 CONTRIBUTIONS
 
 Before doing any contribution read <a href="https://github.com/DEADSEC-SECURITY/DEADSEC-SECURITY/blob/main/CONTRIBUTING.md">CONTRIBUTING</a>.
