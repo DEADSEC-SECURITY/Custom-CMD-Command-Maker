@@ -6,7 +6,7 @@ It works by creating a new entry in your windows registry for startup pointing t
 
 ## 📝 CONTRIBUTIONS
 
-Before doing any contribution read <a href="https://github.com/DEADSEC-SECURITY/DEADSEC-SECURITY/blob/main/CONTRIBUTING.md">CONTRIBUTING</a>.
+Before doing any contribution read <a href="https://gist.github.com/DEADSEC-SECURITY/e123536ae7688dface628bf886dbe6ff">CONTRIBUTING</a>.
 
 ## 📧 CONTACT
 
